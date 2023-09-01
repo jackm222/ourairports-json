@@ -1,5 +1,5 @@
 {
-  "name": "ourairports-json",
+  "name": "@MM-coder/ourairports-json",
   "version": "1.0.2",
   "description": "JSON version of the OurAirports airports.csv.",
   "homepage": "https://github.com/MM-coder/ourairports-json",

@@ -6,7 +6,7 @@
 ### Installation
 
 ```shell
-npm i ourairports-json
+npm install @mm-coder/ourairports-json
 ```
 
 #### Typescript
