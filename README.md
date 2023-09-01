@@ -3,12 +3,18 @@
 > Updated JSON version of the OurAirports Database.
 
 ## Usage
-### Typescript
+### Installation
+
+```shell
+npm i ourairports-json
+```
+
+#### Typescript
 ```ts
 import * as airports from 'ourairports-json'
 ```
 
-### Javascript
+#### Javascript
 ```js
 const airports = require('airport-data')
 ```
