@@ -1,0 +1,16 @@
+{
+  "name": "ourairports-json",
+  "version": "1.0.1",
+  "description": "JSON version of the OurAirports airports.csv.",
+  "homepage": "https://github.com/MM-coder/ourairports-json",
+  "license": "Unlicense",
+  "author": {
+    "name": "LibreCharts",
+    "url": "https://github.com/librecharts"
+  },
+  "main": "dist/airports",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MM-coder/ourairports-json"
+  }
+}
