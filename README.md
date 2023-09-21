@@ -16,7 +16,7 @@ import * as airports from 'ourairports-json'
 
 #### Javascript
 ```js
-const airports = require('airport-data')
+const airports = require('ourairports-json')
 ```
 
 ## Format
